@@ -1,0 +1,24 @@
+{
+  "name": "hello_world",
+  "version": "0.0.0",
+  "authors": [
+    "Tristan Colombo <tristan@gnulinuxmag.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "GPL",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.1.4",
+    "paper-button": "polymerelements/paper-button#~1.0.8",
+    "paper-toast": "polymerelements/paper-toast#~1.0.0"
+  }
+}
